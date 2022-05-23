@@ -2,7 +2,7 @@
 
 # iMiN
 <img src="https://github.com/Sivanandhpp/iMiN/blob/master/assets/images/imin_small.png?raw=true" align="left" width="200" hspace="10" vspace="10">
-<br/>iMiN is an attendance management application for android devices. This project is to help teachers and HR's in their human resource management.! iMiN is completely developed using Google's Flutter and Firebase Realtime Database.<br/>Due to some reasons some files are removed, if you wanted to use this project please contact.<br/><br/><br/><br/><br/><br/>
+<br/>iMiN is an attendance management application for android devices. This project is to help teachers and HR's in their human resource management.! iMiN is completely developed using Google's Flutter and Firebase Realtime Database.<br/>Due to some security reasons some files are removed, if you wanted to use this project please contact.<br/><br/><br/><br/><br/><br/>
 
 
 
