@@ -24,9 +24,7 @@ String attendancePercent = 'null';
 
 //LOCATION BASED ATTENDANCE
 
-// double latitude = 11.6273631;
-// double longitude = 75.7227307;
 
-double latitude = 13.0843241;
-double longitude = 77.4849571;
+double latitude = 15.0843241;
+double longitude = 79.4849571;
 bool streamStarted = false;
