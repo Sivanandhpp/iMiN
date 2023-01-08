@@ -8,11 +8,11 @@
 
 ## Screenshots
 <div style="display:flex;" >
-<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/1.png?raw=true" width="19%" >
-<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/2.png?raw=true" width="19%" >
-<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/3.png?raw=true" width="19%" >
-<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/4.png?raw=true" width="19%" >
-<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/5.png?raw=true" width="19%" >
+<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/1.png" width="19%" >
+<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/2.png" width="19%" >
+<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/3.png" width="19%" >
+<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/4.png" width="19%" >
+<img style="margin-left:10px;" src="https://github.com/Sivanandhpp/iMiN/blob/master/screenshot/5.png" width="19%" >
 
 </div>
 
